@@ -1,5 +1,7 @@
+<br/>
+<p align="center">
 Personal website hosted on Github Pages.
-
+</p>
 
 [![http://www.dnguyen.pw/][site-screenshot]](http://www.dnguyen.pw/)
 
