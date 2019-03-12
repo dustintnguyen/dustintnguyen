@@ -9,14 +9,21 @@ Personal website hosted on Github Pages.
 
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com) 
-* [Feather Light](https://noelboss.github.io/featherlight/)
+
 
 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
+## Acknowledgements
+* [Font Awesome](https://fontawesome.com)
+* [Pooper](https://popper.js.org/)
+* [Typed-js](https://mattboldt.com/demos/typed-js/)
+* [Anime-js](https://animejs.com/)
+* [Feather Light](https://noelboss.github.io/featherlight/)
+* [Ionicons](https://ionicons.com/)
+* [Feather Light](https://noelboss.github.io/featherlight/)
 
 <!--Images-->
 [site-screenshot]: ./img/site.PNG
