@@ -1,6 +1,22 @@
 Personal website hosted on Github Pages.
 
-Built with Jquery, BootStrap, feather light.
+
+[![http://www.dnguyen.pw/][site-screenshot]](http://www.dnguyen.pw/)
 
 
-View [Site](http://www.dnguyen.pw/)
+
+## Built with 
+
+* [Bootstrap](https://getbootstrap.com)
+* [JQuery](https://jquery.com) 
+* [Feather Light](https://noelboss.github.io/featherlight/)
+
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+
+<!--Images-->
+[site-screenshot]: ./img/site.PNG
