@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  Personal website hosted on Github Pages.
+  Personal <a href="http://www.dnguyen.pw/">website</a> hosted on Github Pages.
 </p>
 
 
