@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  Personal <a href="https://www.dustinnguyen.space/">website</a> hosted on Github Pages.
+  Personal <a href="http://www.dustinnguyen.space/">website</a> hosted on Github Pages.
 </p>
 
 
@@ -11,7 +11,7 @@
 * [Acknowledgements](#acknowledgements)
 
   
-[![http://www.dnguyen.pw/][site-screenshot]](https://www.dustinnguyen.space/)
+[![http://www.dnguyen.pw/][site-screenshot]](http://www.dustinnguyen.space/)
 
 
 
