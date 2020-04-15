@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  Personal <a href="http://www.dustinnguyen.space/">website</a> hosted on Github Pages.
+  Personal <a href="http://www.dustinnguyen.space/">website</a>.
 </p>
 
 
